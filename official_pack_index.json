@@ -25,17 +25,17 @@
       "datasetVersion": "us_fema_national-4b4f8e08c43a41ab",
       "packSchemaVersion": 1,
       "downloadUrl": "https://raw.githubusercontent.com/Arelera/haven-data/main/packs/us_fema_national.official-pack.json.gz",
-      "sha256": "00bd39330b1831890a8695b6162517e28ee8b3440be4c42255f2dbc43cfa3f7d",
+      "sha256": "d73b3d7929afa5bd49188e4b9a9b2f9d43934d92d3f00645db2ab10fef552db1",
       "providerIds": [
         "us_fema_nss_standby",
         "us_fema_open_shelters"
       ],
-      "updatedAt": "2026-04-01T22:45:40.492278Z",
+      "updatedAt": "2026-04-01T22:50:48.791800Z",
       "title": "United States official coverage",
       "subtitle": "FEMA standby shelters and open-shelter snapshots for nationwide official coverage.",
       "attributionLabel": "FEMA NSS Standby Shelters · FEMA Open Shelters",
-      "compressedBytes": 4740,
-      "installedBytes": 48812,
+      "compressedBytes": 4439,
+      "installedBytes": 26053,
       "minAppSchemaVersion": 7,
       "maxAppSchemaVersion": null
     }
