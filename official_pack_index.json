@@ -18,6 +18,26 @@
       "installedBytes": 64761231,
       "minAppSchemaVersion": 7,
       "maxAppSchemaVersion": null
+    },
+    {
+      "packId": "us_fema_national",
+      "marketCode": "US",
+      "datasetVersion": "us_fema_national-4b4f8e08c43a41ab",
+      "packSchemaVersion": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/Arelera/haven-data/main/packs/us_fema_national.official-pack.json.gz",
+      "sha256": "00bd39330b1831890a8695b6162517e28ee8b3440be4c42255f2dbc43cfa3f7d",
+      "providerIds": [
+        "us_fema_nss_standby",
+        "us_fema_open_shelters"
+      ],
+      "updatedAt": "2026-04-01T22:45:40.492278Z",
+      "title": "United States official coverage",
+      "subtitle": "FEMA standby shelters and open-shelter snapshots for nationwide official coverage.",
+      "attributionLabel": "FEMA NSS Standby Shelters · FEMA Open Shelters",
+      "compressedBytes": 4740,
+      "installedBytes": 48812,
+      "minAppSchemaVersion": 7,
+      "maxAppSchemaVersion": null
     }
   ]
 }
