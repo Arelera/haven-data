@@ -5,15 +5,15 @@
     "datasetVersion": "jp_official_gsi_national-24700d63ec655bce",
     "packSchemaVersion": 1,
     "downloadUrl": "https://raw.githubusercontent.com/Arelera/haven-data/main/packs/jp_official_gsi_national.official-pack.json.gz",
-    "sha256": "d22453422178c83bd5d3e85ca6a64fdcbd38cd9474b767278bf440c74459cc24",
+    "sha256": "3b375b7dd12f0bb423cdd041aae8e7a9e7b8e8aa1fe0e81a043cfd0a766019a9",
     "providerIds": [
       "jp_gsi_designated_evacuation_facilities"
     ],
-    "updatedAt": "2026-04-07T19:48:00.170240Z",
+    "updatedAt": "2026-04-07T20:14:42.225642Z",
     "title": "Japan official coverage",
     "subtitle": "National designated evacuation sites, shelters, and welfare shelters from GSI.",
     "attributionLabel": "GSI Japan Designated Evacuation Facilities",
-    "compressedBytes": 8847785,
+    "compressedBytes": 8847730,
     "installedBytes": 64761231,
     "minAppSchemaVersion": 7,
     "maxAppSchemaVersion": null
@@ -24,7 +24,7 @@
       "marketCode": "JP",
       "datasetVersion": "jp_gsi_designated_evacuation_facilities-4920c3b03ed38ae3",
       "builtAt": "2026-03-30T06:25:20.000Z",
-      "fetchedAt": "2026-04-07T19:48:00.170240Z",
+      "fetchedAt": "2026-04-07T20:14:42.225642Z",
       "licenseSummary": "Geospatial Information Authority of Japan public data with attribution.",
       "attributionLabel": "GSI Japan Designated Evacuation Facilities",
       "refreshStatus": "bundled",
