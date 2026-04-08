@@ -6,15 +6,15 @@
       "datasetVersion": "jp_official_gsi_national-24700d63ec655bce",
       "packSchemaVersion": 1,
       "downloadUrl": "https://raw.githubusercontent.com/Arelera/haven-data/main/packs/jp_official_gsi_national.official-pack.json.gz",
-      "sha256": "77784990c87714d49b322d026adcc177c2c71e9ab6eeb9ae059ce4509ebfeef3",
+      "sha256": "9de248ab812267cd53ccb701ee39174497133a543ec820bc4844935f6062bfba",
       "providerIds": [
         "jp_gsi_designated_evacuation_facilities"
       ],
-      "updatedAt": "2026-04-08T06:47:07.437919Z",
+      "updatedAt": "2026-04-08T08:28:34.925046Z",
       "title": "Japan official coverage",
       "subtitle": "National designated evacuation sites, shelters, and welfare shelters from GSI.",
       "attributionLabel": "GSI Japan Designated Evacuation Facilities",
-      "compressedBytes": 8847778,
+      "compressedBytes": 8847735,
       "installedBytes": 64761231,
       "minAppSchemaVersion": 7,
       "maxAppSchemaVersion": null
@@ -25,16 +25,16 @@
       "datasetVersion": "us_fema_national-4b4f8e08c43a41ab",
       "packSchemaVersion": 1,
       "downloadUrl": "https://raw.githubusercontent.com/Arelera/haven-data/main/packs/us_fema_national.official-pack.json.gz",
-      "sha256": "32e2aaeae1b7267f9c9b5665a4e53cd761a80fa3d843476c13749e887a57024d",
+      "sha256": "cdade1ed380aa279f49bd2bb53db199e21cdbdaba3d01e1e5e67e6689b6eb9c9",
       "providerIds": [
         "us_fema_nss_standby",
         "us_fema_open_shelters"
       ],
-      "updatedAt": "2026-04-08T06:47:31.572681Z",
+      "updatedAt": "2026-04-08T08:28:42.440066Z",
       "title": "United States official coverage",
       "subtitle": "FEMA standby shelters and open-shelter snapshots for nationwide official coverage.",
       "attributionLabel": "FEMA NSS Standby Shelters · FEMA Open Shelters",
-      "compressedBytes": 4444,
+      "compressedBytes": 4445,
       "installedBytes": 26053,
       "minAppSchemaVersion": 7,
       "maxAppSchemaVersion": null
